@@ -33,4 +33,4 @@ https://www.linkedin.com/pulse/httpsgithubcommcortsm5stickcphsensor-m-carlos-ort
 1. 먼저 Jetson Nano의 GND에 연결해서 테스트
 2. 만약 측정값이 불안정하거나 부정확하다면
 3. 측정하려는 액체/시스템의 접지점에 연결해보기
-
+g
